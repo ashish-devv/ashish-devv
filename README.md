@@ -4,8 +4,9 @@
 <hr>
 ##### 🔭 I’m currently working on Web Development And Android Development.
 ##### 🌱 I’m currently learning AI & Machine learning .
+
 <hr>
-<img src="https://i.makeagif.com/save-mp4/CUIA8d">
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 
 
