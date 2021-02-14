@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science And Android development**
 
-- 💬 Ask me about **Flask,AngularJs,Spring.....**
+- 💬 Ask me about **Flask,AngularJs,Spring,Node...**
 
 - 📫 How to reach me **akashish908@gmail.com**
 
