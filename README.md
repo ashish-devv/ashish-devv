@@ -2,7 +2,6 @@ Hi 👋 My name is Ashish
 =======================
 
 ![Intro](./download.svg)
-<img src="./download.svg">
 
 
 Full Stack Developer 💻
