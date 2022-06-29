@@ -1,6 +1,9 @@
 Hi 👋 My name is Ashish
 =======================
 
+<img scr="./download.svg">
+
+
 Full Stack Developer 💻
 -----------------------
 
